@@ -12,6 +12,7 @@ The garlic which is a AOE magic damaging weapon that moves with the character. A
 1. Clone or download the project
 2. Open Unity
 3. Add the project to your Unity Hub
-4. Hit the play button in the Unity editor
+4. Load up the menu scene
+5. Hit the play button in the Unity editor
 
 TBC.
